@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<img src='http://g.recordit.co/AhEB0rv2GJ.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough'/>
+<br>
+<img src='web-app demo.gif' title='Video Walkthrough' width='800' height = '550' alt='Video Walkthrough'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Recordit
